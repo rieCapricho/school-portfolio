@@ -1,2 +1,2 @@
-# school-portfolio
+# MMCMschool-portfolio
 The CTRL Catur Lang logo features a stylized depiction of a computer keycap in a light beige color, set against a dark background. Below the keycap, the acronym "CTRL" is prominently displayed, with each letter in a different color: green, teal, orange, and yellow, respectively. The "O" in "CTRL" is cleverly designed to resemble a power button symbol, emphasizing control and power. Underneath the acronym, the full name "Catur Lang" is written in uppercase letters, providing a clear and professional identity for the brand.
